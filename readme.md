@@ -1,3 +1,2 @@
-everytime you see the word "thanks" print the word dog
-
-
+in order to understand this project 
+please view the main.py file.
